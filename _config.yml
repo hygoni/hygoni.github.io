@@ -16,8 +16,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Hygoni's Blog
+  tagline: Developer
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
