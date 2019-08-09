@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "[단기연수리뷰] 실리콘밸리 기업 방문기"
-description: An example post which shows code rendering.
-date:   2019-08-01 21:03:36 +0530
-categories: Javascript NodeJS
+title: "실리콘밸리 단기연수 리뷰"
+description: 실리콘밸리 활동 기록
+date:   2019-05-23 21:03:36 +0530
+categories: SiliconValley
 ---
-Adobe, Google, Computer History Museum 방문기
+실리콘밸리 활동 기록
 ```javascript
 const express = require('express')
 const app = express()
