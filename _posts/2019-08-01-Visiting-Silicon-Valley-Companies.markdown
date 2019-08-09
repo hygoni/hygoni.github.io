@@ -13,9 +13,10 @@ categories: SiliconValley
 
 Computer History Museum에서는 말 그대로 컴퓨터의 시초부터 최전선까지 어떻게 컴퓨터가 발전되어왔는가를 시대별로 직접 눈으로 볼 수 있었다.
 
+
 ## 2019-08-02
 ### 활동 내용 : 51 Conference 참석
-
+컨퍼런스 당일에는 다양한 사람이 왔는데, 엔지니어 뿐만아니라 디자이너 분들도 있었다. 
 
 ## 2019-08-03
 ### 활동 내용 : 51 Conference - Design Sprint
