@@ -5,6 +5,7 @@ description: 실리콘밸리 활동 기록
 date:   2019-08-07 21:03:36 +0530
 categories: SiliconValley
 ---
+실리콘밸리 활동 기록
 
 ## 2019-08-01
 ### 활동 내용 : Google, Adobe, Computer History Museum 방문
