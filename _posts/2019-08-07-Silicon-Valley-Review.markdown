@@ -23,7 +23,7 @@ Computer History Museum에서는 말 그대로 컴퓨터의 시초부터 최전�
 
 ## 2019-08-04
 ### 활동 내용 : 51 Post Conference - Product Design
-전에 한 Design Sprint가 새로운 제품을 만드는 거였다면, 이번에는 Google의 제품을 개선하는 프로그램이었다. 
+전에 한 Design Sprint가 새로운 제품을 만드는 거였다면, 이번에는 Google의 제품을 개선하는 프로그램이었다. 여기서  
 
 ## 2019-08-05
 ### 활동 내용 : 51 Post Conference - Idea Pitch at Google, Airbnb 방문
